@@ -8,33 +8,33 @@ Diseñar una aplicación, con el fin de volver eficientes y eficaces los proceso
 como es unificar los procesos de registro de reserva, consultas de capacidad de reserva (disponibilidad),
 cálculos de costos de las habitaciones y servicios prestados.
 
-- Historias de usuario: Crear página web Hoteles MinSuite
+- Historia de usuario: Crear página web Hoteles MinSuite
 Rol: Dueños del Hotel
 Meta: Plataforma digital que le permita agilizar los procesos de registros y control de hoteles
 Beneficios: Realizar reservas, control de habitaciones ocupadas
 
-- Historias de usuario: Presentar servicios ofrecidos por 
+- Historia de usuario: Presentar servicios ofrecidos por 
 Rol: Dueños del Hotel
 Meta: Presentación visual de productos, servicios, precios, ubicación, horarios de atención al cliente,
 evaluación del servicio. 
 Beneficio:  llegar a más clientes, generar mayor demanda en servicios, mayor reconocimiento del hotel.
 
-- Historias de usuario: Creación de usuario
+- Historia de usuario: Creación de usuario
 Rol: personas que desean agendar reserva
 Meta: Sesión de registro de clientes
 Beneficio: Agendar, pagar reservas, recibir promociones y el personal del hotel llevar un control sobre las habitaciones
 
-- Historias de usuario: Reservar 
+- Historia de usuario: Reservar 
 Rol: Huéspedes
 Meta: Sesión selección de horario disponible, disponibilidad de habitación, tipo de habitación
 Beneficio: Tener una mejor organización de horarios en la prestación de servicios.
 
-- Historias de usuario: Pagar Reservas 
+- Historia de usuario: Pagar Reservas 
 Rol: Huéspedes
 Meta: Sesión realización pagos con selección de los métodos de pago  (Pago en línea, efectivo), 
 Beneficio: Ofrecer alternativas de pagos seguras y confiables al cliente, asegurando la reserva y su cumplimiento
 
-- Historias de usuario: Realizar Check-in / Check-Up 
+- Historia de usuario: Realizar Check-in / Check-Up 
 Rol: Huéspedes
 Meta: Sesión registro al ingresar y Salir del hotel 
 Beneficio: Ofrecer rapidez en el registro y disminuye la congestión en la recepción. 
